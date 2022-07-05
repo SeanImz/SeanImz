@@ -12,7 +12,7 @@ I'm a career changer that worked for many years as a biologist and research scie
 *   🚀  I'm currently working on [Animated Template page](https://www.mudskipper.dev/projects/animated-template/index.html)
 *   🧠  I'm learning JavaScript / React
 *   🤝  I'm open to collaborating on interesting volunteer projects
-*   ⚡  There is SO much to learn in Web Dev... which is fantastic!
+*   ⚡  There is SO much to learn in Web Dev... which is almost overwhelming, but also wonderful!
 ### Skills
 
 <p align="left">
