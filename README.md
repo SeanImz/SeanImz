@@ -10,7 +10,7 @@ I'm a career changer that worked for many years as a biologist and research scie
 * 🖥️  See my portfolio at [Mudskipper\_dev](http://mudskipper.dev)
 * ✉️  You can contact me at [sean@mudskipper.dev](mailto:sean@mudskipper.dev)
 * 🚀  I'm currently working on [My portfolio](http://mudskipper.dev)
-* 🧠  I'm learning React, Figma
+* 🧠  I'm learning Node.js
 * 🤝  I'm open to collaborating on Interesting volunteer projects
 * ⚡  There is SO much to learn in Web Dev... which is great for someone like me that loves "more input"!
 
