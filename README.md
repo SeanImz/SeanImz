@@ -4,14 +4,14 @@ Hi 👋 My name is Sean Evans
 A biologist evolving into a web developer...
 --------------------------------------------
 
-I'm a career changer that worked for many years as a biologist and research scientist before moving into a management job that involved some web development.
+I'm a career changer that worked for many years as a biologist and research scientist before moving into a management job that involved some web development, and then taking a new opportunity to become a full-time web developer.
 
 * 🌍  I'm based in Derbyshire, UK
 * 🖥️  See my portfolio at [Mudskipper\_dev](http://mudskipper.dev)
 * ✉️  You can contact me at [sean@mudskipper.dev](mailto:sean@mudskipper.dev)
 * 🚀  I'm currently working on [My portfolio](http://mudskipper.dev)
 * 🧠  I'm learning Node.js
-* 🤝  I'm open to collaborating on Interesting volunteer projects
+* 🤝  I'm open to collaborating on interesting volunteer projects
 * ⚡  There is SO much to learn in Web Dev... which is great for someone like me that loves "more input"!
 
 ### Skills
